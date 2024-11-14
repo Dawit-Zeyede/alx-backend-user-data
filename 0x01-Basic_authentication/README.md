@@ -1,0 +1,3 @@
+This project demonstrates the authentication process by implementing Basic Authentication on a simple API. Basic Authentication is a method of verifying a user's identity by requiring their username and password with each request. This is a simplified example meant for learning purposes, where we manually handle the authentication steps to understand how the process works.
+
+In a real-world application, it's advisable to use established libraries or frameworks to handle authentication securely and efficiently, such as Flask-HTTPAuth in Python. However, this project will guide you through building Basic Authentication from scratch to give you a foundational understanding of the mechanism and its components.
